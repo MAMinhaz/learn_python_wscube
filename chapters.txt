@@ -1,0 +1,111 @@
+1. Introduction of Python
+✔ chapter 1 - 00:00:00   |   Introduction of Python 
+✔ chapter 2 - 00:13:06   |   Installation of Python in Windows
+✔ chapter 3 - 00:20:22   |   Install Pycharm for Python
+✔ chapter 4 - 00:28:24   |   Create the First Python ''Hello World'' Program using Print Function
+✔ chapter 5 - 00:40:49   |   Create & Use Variables in Python
+✔ chapter 6 - 00:51:52   |   String Concatenation in Python
+
+2. Python Operators
+✔ chapter 7 - 00:56:20   |   Arithmetic Operators in Python
+✔ chapter 8 - 01:05:35   |   Assignment Operators in Python
+✔ chapter 9 - 01:10:45   |   Comparison Operators in Python
+✔ chapter 10 - 01:17:41   |   Logical Operators in Python
+✔ chapter 11 - 01:24:40   |   Membership Operators in Python
+✔ chapter 12 - 01:30:44   |   Identity Operators in Python
+chapter 13 - 01:33:54   |   Bitwise Operators in Python
+
+3. Python Data Types and Conditions
+chapter 14 - 01:46:57   |   Data Types in Python
+chapter 15 - 02:10:47   |   User Input & Type Casting in Python
+chapter 16 - 02:20:19   |   If, If Else & If Elif Else Conditional Statements in Python
+chapter 17 - 02:37:53   |   How to Build a Simple Calculator in Python
+chapter 18 - 02:48:35   |   For Loop with Range () in Python
+chapter 19 - 03:06:55   |   While Loop in Python
+chapter 20 - 03:15:42   |   String Indexing & String Slicing in Python
+chapter 21 - 03:28:18   |   String Iteration in Python
+chapter 22 - 03:39:54   |   Lower, Upper, Title & Capitalize String Functions in Python
+chapter 23 - 03:46:06   |   Find, Index, Isalpha, Isdigit & Isalnum String Functions in Python
+chapter 24 - 03:57:52   |   Ord() and Chr() Functions in Python
+chapter 25 - 04:04:26   |   String Format () Method in Python
+chapter 26 - 04:18:00   |   List in Python
+chapter 27 - 04:39:48   |   List Iteration in Python
+chapter 28 - 05:00:43   |   List Function - (Pop, Remove & Clear) List Method
+chapter 29 - 05:21:11   |   Python List Comprehension - Elegant way to Create Lists
+chapter 30 - 05:31:35   |   (Pop, Remove & Clear) List Method
+chapter 31 - 05:42:05   |   Count, Max, Min, Sort, Reverse & Index List Function
+chapter 32 - 06:03:14   |   Zip Function - Iterate Over 2+ Lists at the Same Time
+chapter 33 - 06:03:14   |   Python Program to Convert String to a List
+chapter 34 - 06:17:50   |   Implement a Stack and Queue Using a List Data Type
+
+4. Python Dictionary
+chapter 35 - 06:44:54   |   Introduction to Dictionary in Python
+chapter 36 - 06:59:20   |   Dictionary Function & Method in Python
+chapter 37 - 07:24:16   |   Python Nested Dictionary
+chapter 38 - 07:35:26   |   Tuple in Python
+chapter 39 - 08:03:30   |   Sets in Python
+
+5. Python Function
+chapter 40 - 08:26:38   |   Functions in Python
+
+6. Python Modules
+chapter 41 - 08:56:29   |   Modules in Python
+chapter 42 - 09:15:18   |   Math Module in Python
+chapter 43 - 09:28:01   |   Random Module in Python
+chapter 44 - 09:39:39   |   Datetime Module in Python
+
+7. Python Game
+chapter 45 - 09:49:32   |   Python - Random Number Guessing Game (Using Random Modeul)
+chapter 46 - 09:57:34   |   Python - Rock, Paper, Scissors Game (Using Random Module)
+chapter 47 - 10:31:27   |   Pickle Module
+
+8. Python JSON
+chapter 48 - 10:38:51   |   JSON in Python
+chapter 49 - 10:51:23   |   Convert JSON Data to Python Object
+chapter 50 - 10:58:47   |   Reading and Writing JSON File in Python
+
+9. Python OOP
+chapter 51 - 11:05:26   |   Object Oriented Programming(Class & Object)
+chapter 52 - 11:16:13   |   Object Oriented Programming (Methods & Constructors)
+chapter 53 - 11:24:04   |   Inheritance in Python
+chapter 54 - 11:32:28   |   Encapsulation in Python (Object Oriented Programming)
+chapter 55 - 11:38:09   |   Getter and Setter Method in Python
+chapter 56 - 11:45:54   |   Polymorphism in Python
+chapter 57 - 11:55:52   |   Method Overloading & Method Overriding in Python
+chapter 58 - 12:07:28   |   Bike Rental System
+chapter 59 - 12:19:44   |   Python Errors and Built-in Exceptions
+chapter 60 - 12:26:12   |   Python Exception Handling
+
+10. Python Database
+chapter 61 - 12:37:21   |   Python - SQLite (DB Create and Connection)
+chapter 62 - 12:45:37   |   Python: Installing DB Browser for SQLite
+chapter 63 - 12:50:59   |   Insert Query - SQLite
+chapter 64 - 12:58:44   |   Select Query, Order By & Limit
+chapter 65 - 13:06:56   |   SQLite Delete Query
+chapter 66 - 13:11:36   |   SQLite Update Query
+chapter 67 - 13:17:49   |   SQLite WHERE Clause
+chapter 68 - 13:26:07   |   SQLite JOIN
+chapter 69 - 13:40:33   |   Install XAMPP on Windows - PyMySQL
+chapter 70 - 13:52:41   |   Python: Creating MySQL Database & Connection
+chapter 71 - 14:04:05   |   MySQL Data Types
+chapter 72 - 14:12:03   |   Python MySQL Create Table
+chapter 73 - 14:23:03   |   MySQL Insert Query using Python
+chapter 74 - 14:31:32   |   MySQL Select Query using Python
+chapter 75 - 14:45:56   |   MySQL Delete Query using Python
+chapter 76 - 14:52:22   |   MySQL Update Query using Python
+chapter 77 - 15:01:40   |   Python MySQL Order By & Limit
+chapter 78 - 15:09:39   |   Python MySQL Searching & Filter Data
+chapter 79 - 15:19:48   |   Python MySQL Joins Complete Introduction
+chapter 80 - 15:26:52   |   MySQL INNER JOIN
+chapter 81 - 15:38:31   |   MySQL LEFT JOIN
+chapter 82 - 15:47:03   |   MySQL RIGHT JOIN
+chapter 83 - 15:54:50   |   MySQL EQUI JOIN
+chapter 84 - 16:00:05   |   MySQL Self Join & Full Outer Join
+chapter 85 - 16:07:36   |   MySQL BETWEEN Operator
+chapter 86 - 16:11:58   |   Use of MIN and MAX Functions
+chapter 87 - 16:16:02   |   MySQL GROUP BY Statement
+chapter 88 - 16:21:40   |   MySQL: Distinct Keyword
+chapter 89 - 16:26:41   |   MySQL SUM () Function
+chapter 90 - 16:29:56   |   MySQL AVG() Function
+chapter 91 - 16:34:46   |   MySQL COUNT() Function
+chapter 92 - 16:37:49   |   MySQL - IN or Not IN Operators
