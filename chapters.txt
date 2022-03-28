@@ -13,7 +13,7 @@
 ✔ chapter 10 - 01:17:41   |   Logical Operators in Python
 ✔ chapter 11 - 01:24:40   |   Membership Operators in Python
 ✔ chapter 12 - 01:30:44   |   Identity Operators in Python
-chapter 13 - 01:33:54   |   Bitwise Operators in Python
+✔chapter 13 - 01:33:54   |   Bitwise Operators in Python
 
 3. Python Data Types and Conditions
 chapter 14 - 01:46:57   |   Data Types in Python
