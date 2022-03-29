@@ -13,10 +13,10 @@
 ✔ chapter 10 - 01:17:41   |   Logical Operators in Python
 ✔ chapter 11 - 01:24:40   |   Membership Operators in Python
 ✔ chapter 12 - 01:30:44   |   Identity Operators in Python
-✔chapter 13 - 01:33:54   |   Bitwise Operators in Python
+✔ chapter 13 - 01:33:54   |   Bitwise Operators in Python
 
 3. Python Data Types and Conditions
-chapter 14 - 01:46:57   |   Data Types in Python
+✔ chapter 14 - 01:46:57   |   Data Types in Python
 chapter 15 - 02:10:47   |   User Input & Type Casting in Python
 chapter 16 - 02:20:19   |   If, If Else & If Elif Else Conditional Statements in Python
 chapter 17 - 02:37:53   |   How to Build a Simple Calculator in Python
