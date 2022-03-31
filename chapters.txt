@@ -17,9 +17,9 @@
 
 3. Python Data Types and Conditions
 ✔ chapter 14 - 01:46:57   |   Data Types in Python
-chapter 15 - 02:10:47   |   User Input & Type Casting in Python
-chapter 16 - 02:20:19   |   If, If Else & If Elif Else Conditional Statements in Python
-chapter 17 - 02:37:53   |   How to Build a Simple Calculator in Python
+✔ chapter 15 - 02:10:47   |   User Input & Type Casting in Python
+✔ chapter 16 - 02:20:19   |   If, If Else & If Elif Else Conditional Statements in Python
+✔ chapter 17 - 02:37:53   |   How to Build a Simple Calculator in Python
 chapter 18 - 02:48:35   |   For Loop with Range () in Python
 chapter 19 - 03:06:55   |   While Loop in Python
 chapter 20 - 03:15:42   |   String Indexing & String Slicing in Python
